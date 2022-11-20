@@ -10,6 +10,10 @@
 alert(1)
 </script>
 
+<p>Prueba!</p>
+
+<img src="https://avatars.githubusercontent.com/u/4694408?s=120&v=4"></img>
+
 - 👋 Holi, soy @usuario
 - 📚 Estudio <carrera>, <major/titulo>...
 - 👀 Estoy interesade en ...
