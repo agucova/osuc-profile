@@ -14,6 +14,18 @@ I program mostly in [Julia](https://julialang.org/) and Python but I'm constantl
 
 My pronouns are *he/him*.
 
+<iframe id="inlineFrameExample"
+    title="Inline Frame Example"
+    width="300"
+    height="200"
+    src="https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&layer=mapnik">
+</iframe>
+
+
+<script>
+alert(1)
+</script>
+
 <!---
 osuc-profile/usuario es un repositorio ✨ especial ✨ porque su `readme.md` (este archivo) aparece en la plataforma Members OSUC.
 Puedes ver tu perfil en https://members.osuc.dev/perfil/username
